@@ -15,6 +15,14 @@
 
 }
 
+.product__rating {
+    display: flex;
+}
+
+.product__price {
+    margin-top: 5px;
+}
+
 .product>img {
     max-height: 200px;
     width: 100%;
